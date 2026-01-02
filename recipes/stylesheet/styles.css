@@ -1,22 +1,29 @@
 .DirectionsPar01::before{
 content: "Step 1 ";
-
-
 }
 
 .DirectionsPar02::before{
     content:"Step 2 ";
 }
 
-
 .DirectionsPar03::before{
     content:"Step 3 ";
 }
+
 .DirectionsPar04::before{
     content:"Step 4 ";
 }
+
 .DirectionsPar05::before{
     content:"Step 5 ";
+}
+
+.DirectionsPar05::before{
+    content:"Step 6 ";
+}
+
+.DirectionsPar05::before{
+    content:"Step 7 ";
 }
 
 ol > li{
