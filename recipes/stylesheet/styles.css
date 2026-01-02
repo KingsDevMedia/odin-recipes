@@ -18,11 +18,11 @@ content: "Step 1 ";
     content:"Step 5 ";
 }
 
-.DirectionsPar05::before{
+.DirectionsPar06::before{
     content:"Step 6 ";
 }
 
-.DirectionsPar05::before{
+.DirectionsPar07::before{
     content:"Step 7 ";
 }
 
@@ -30,3 +30,6 @@ ol > li{
     list-style: none;
 }
 
+li > p{
+    padding-bottom:15px;
+}
