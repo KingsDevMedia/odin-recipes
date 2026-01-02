@@ -1,2 +1,3 @@
 # odin-recipes
-A project about HTML structure for a recipe site
+
+A project about how to use HTML in structuring a recipe site.
